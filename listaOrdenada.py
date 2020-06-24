@@ -1,8 +1,8 @@
 #Lista ordenada
 minha_lista1 = [125,398,450,365,378,393,984,1,2,3,6,12,15]
-minha_lista2 = ["Abacate", "Zinco", "Pipoca", "Guará", "Açaí", "Quentão", "Dinheiro"]
+minha_lista2 = ["Abacate", "Zinco", "Pipoca", "Guaraná", "Açaí", "Quentão", "Dinheiro"]
 
-#Ordenar os numeros
+#Ordenar os numeros, organizando-os.
 minha_lista1.sort()
 print(minha_lista1)
 
